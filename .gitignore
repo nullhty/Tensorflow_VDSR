@@ -112,6 +112,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-*.m linguist-language=Python
-*.py linguist-language=Python
